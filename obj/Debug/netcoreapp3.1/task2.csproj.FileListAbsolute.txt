@@ -1,0 +1,13 @@
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.exe
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.deps.json
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.json
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.runtimeconfig.dev.json
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.dll
+D:\chubb\training\c#.net\task2\bin\Debug\netcoreapp3.1\task2.pdb
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.csprojAssemblyReference.cache
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfoInputs.cache
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.AssemblyInfo.cs
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.csproj.CoreCompileInputs.cache
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.dll
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.pdb
+D:\chubb\training\c#.net\task2\obj\Debug\netcoreapp3.1\task2.genruntimeconfig.cache
